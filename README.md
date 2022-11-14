@@ -6,7 +6,7 @@ Kelas : TI 3C
 
 Absen : 12
 
-NIM : 2041720064
+NIM : 2041720073
 
 ## 1. MENYIAPKAN PROJECT
 ## Pertama ke terminal visual studio code dengan memilih folder yang dituju dan buat projectnya
